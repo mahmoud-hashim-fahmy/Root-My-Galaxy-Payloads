@@ -77,24 +77,6 @@
         "size": 6407096
       }
     },
-      {
-    "id": "a36xq-A366BXXSBCZG1",
-    "name": "Galaxy A36 5G | Kernel 6.6.98",
-    "models": ["SM-A366B"],
-    "kernel": "6.6.98",
-    "fingerprint": "samsung/a36xqcs/a36xq:15/AP3A.240905.015.A2/A366BXXSBCZG1_OYVBCZG1:user/release-keys",
-    "pageSize": 4096,
-    "payload": {
-      "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366BXXSBCZG1/cve-2026-43499-app.release.so",
-      "size": 104128,
-      "hash": "replace_with_actual_sha256"
-    },
-    "metadata": {
-      "build": "AP3A.240905.015.A2.A366BXXSBCZG1",
-      "region": "international"
-    }
-     }
-   },
      {
       "payloadId": "e3q-S928USQS6DZF2",
       "displayName": "Galaxy S24 Ultra | Kernel 6.1.145",
@@ -181,6 +163,23 @@
         "size": 4556352
       }
     },
+      {
+    "id": "a36xq-A366BXXSBCZG1",
+    "name": "Galaxy A36 5G | Kernel 6.6.98",
+    "models": ["SM-A366B"],
+    "kernel": "6.6.98",
+    "fingerprint": "samsung/a36xqcs/a36xq:15/AP3A.240905.015.A2/A366BXXSBCZG1_OYVBCZG1:user/release-keys",
+    "pageSize": 4096,
+    "payload": {
+      "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366BXXSBCZG1/cve-2026-43499-app.release.so",
+      "size": 104128,
+      "hash": "replace_with_actual_sha256"
+    },
+    "metadata": {
+      "build": "AP3A.240905.015.A2.A366BXXSBCZG1",
+      "region": "international"
+    }
+  },
     {
       "payloadId": "e1s-S921NKSSFDZF3",
       "displayName": "Galaxy S24 | Kernel 6.1.157",
