@@ -1,7 +1,19 @@
 {
-  "schemaVersion": 1,
-  "version": 3,
+  "schemaVersion": 3,
   "targets": [
+    {
+      "id": "a36xq-A366WVLS3AYG1",
+      "name": "Galaxy A36 5G | Kernel 6.6.46",
+      "models": ["SM-A366W"],
+      "kernel": "6.6.46",
+      "fingerprint": "samsung/a36xqcs/a36xq:15/AP3A.240905.015.A2/A366WVLS3AYG1_OYV3AYG1:user/release-keys",
+      "pageSize": 4096,
+      "payload": {
+        "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app.release.so",
+        "size": 104128,
+        "hash": ""
+      }
+    },
     {
       "id": "a36xq-A366BXXSBCZG1",
       "name": "Galaxy A36 5G | Kernel 6.6.98",
@@ -13,10 +25,6 @@
         "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366BXXSBCZG1/cve-2026-43499-app.release.so",
         "size": 104128,
         "hash": ""
-      },
-      "metadata": {
-        "build": "AP3A.240905.015.A2.A366BXXSBCZG1",
-        "region": "international"
       }
     }
   ]
