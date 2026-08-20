@@ -63,7 +63,7 @@
         "size": 6407096
       }
     },
-        {
+    {
       "payloadId": "a36xq-A366BXXSBCZG1",
       "displayName": "Galaxy A36 5G | Kernel 6.6.98",
       "models": ["SM-A366B"],
@@ -73,11 +73,11 @@
         "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/kernelsu/ksud-a36xq-A366BXXSBCZG1-kdp",
-        "size": 0
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
+        "size": 6407096
       }
     },
-        {
+    {
       "payloadId": "q7q-F966USQU9BZDN",
       "displayName": "Galaxy Z Fold 7 | Kernel 6.6.98",
       "models": ["SM-F966U", "SM-F966U1"],
