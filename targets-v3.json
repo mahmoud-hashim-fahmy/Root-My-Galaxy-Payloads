@@ -8,7 +8,11 @@
       "kernel": "6.6.46",
       "fingerprint": "samsung/a36xqcs/a36xq:15/AP3A.240905.015.A2/A366WVLS3AYG1_OYV3AYG1:user/release-keys",
       "pageSize": 4096,
-      "payload": "a36xq-A366WVLS3AYG1"
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app.release.so",
+        "size": 104128,
+        "hash": ""
+      }
     },
     {
       "id": "a36xq-A366BXXSBCZG1",
@@ -17,21 +21,11 @@
       "kernel": "6.6.98",
       "fingerprint": "samsung/a36xqcs/a36xq:15/AP3A.240905.015.A2/A366BXXSBCZG1_OYVBCZG1:user/release-keys",
       "pageSize": 4096,
-      "payload": "a36xq-A366BXXSBCZG1"
-    }
-  ],
-  "payloads": [
-    {
-      "id": "a36xq-A366WVLS3AYG1",
-      "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app.release.so",
-      "size": 104128,
-      "hash": ""
-    },
-    {
-      "id": "a36xq-A366BXXSBCZG1",
-      "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366BXXSBCZG1/cve-2026-43499-app.release.so",
-      "size": 104128,
-      "hash": ""
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/mahmoud-hashim-fahmy/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366BXXSBCZG1/cve-2026-43499-app.release.so",
+        "size": 104128,
+        "hash": ""
+      }
     }
   ]
 }
